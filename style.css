@@ -1,0 +1,25 @@
+.virs{ 
+    float: top;
+    margin: top 200px;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 10%;
+}
+.port1{
+    float:left;
+    margin-left:25%;
+    margin-top: 2%;
+}
+.port2{
+    float: right;
+    margin-right: 25%;
+    margin-top:2%;
+} .text{
+   text-align: center;
+   font-size: 25px;
+   margin-left: 15%;
+   margin-right: 15%;
+}
+.back{
+    background-color: aquamarine;
+}
